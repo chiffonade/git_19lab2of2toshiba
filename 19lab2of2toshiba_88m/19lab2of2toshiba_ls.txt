@@ -1,0 +1,15 @@
+190120notoginsengV1meth/
+190425collinearity/
+190504diTetraMethCompare/
+190507cmh/
+190509snpeff/
+190512diTetraYNcompare/
+190512topGOenrichment/
+190517njTreePrepare/
+190518treemix/
+190612tTestAndRegression/
+190613methylationPattern/
+190722cg/
+190912riceExtractCDS/
+191018zyx/
+191200scaffoldPanaxRedo/
